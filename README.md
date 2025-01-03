@@ -11,11 +11,15 @@ Features:
 🎨 Clean and responsive user interface for an enhanced user experience.
 Technologies Used:
   -HTML for structure
+  
   -CSS for styling
+  
   -JavaScript for dynamic functionality and API integration
 
 How It Works:
 
   -Uses the browser's geolocation API to fetch your current location.
+  
   -Fetches weather data from a reliable weather API (e.g., OpenWeatherMap).
+  
   -Updates the UI dynamically based on the retrieved data.
