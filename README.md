@@ -1,9 +1,11 @@
-Weather App 🌤️
+**Weather App 🌤️**
 
-Description:
+**Description:**
+
 A simple and intuitive weather application built using HTML, CSS, and JavaScript. This app provides real-time weather updates for your current location or any location you search for.
 
-Features:
+
+**Features:**
 
 🌍 Detects and displays the weather for your current location using geolocation.
 
@@ -13,7 +15,8 @@ Features:
 
 🎨 Clean and responsive user interface for an enhanced user experience.
 
-Technologies Used:
+
+**Technologies Used:**
 
   -HTML for structure
   
@@ -21,7 +24,8 @@ Technologies Used:
   
   -JavaScript for dynamic functionality and API integration
 
-How It Works:
+
+**How It Works:**
 
   -Uses the browser's geolocation API to fetch your current location.
   
