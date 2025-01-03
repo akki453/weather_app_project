@@ -6,10 +6,15 @@ A simple and intuitive weather application built using HTML, CSS, and JavaScript
 Features:
 
 🌍 Detects and displays the weather for your current location using geolocation.
+
 🔍 Allows users to search for and view weather details for any city worldwide.
+
 📊 Displays essential weather information such as temperature, humidity, wind speed, and weather conditions.
+
 🎨 Clean and responsive user interface for an enhanced user experience.
+
 Technologies Used:
+
   -HTML for structure
   
   -CSS for styling
