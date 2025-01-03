@@ -29,7 +29,7 @@ A simple and intuitive weather application built using HTML, CSS, and JavaScript
 
   Uses the browser's geolocation API to fetch your current location.
   
-  Fetches weather data from a reliable weather API (e.g., OpenWeatherMap).
+  Fetches weather data from a reliable weather API 
   
   Updates the UI dynamically based on the retrieved data.
 
