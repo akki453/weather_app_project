@@ -18,23 +18,23 @@ A simple and intuitive weather application built using HTML, CSS, and JavaScript
 
 **Technologies Used:**
 
-  -HTML for structure
+  HTML for structure
   
-  -CSS for styling
+  CSS for styling
   
-  -JavaScript for dynamic functionality and API integration
+  JavaScript for dynamic functionality and API integration
 
 
 **How It Works:**
 
-  -Uses the browser's geolocation API to fetch your current location.
+  Uses the browser's geolocation API to fetch your current location.
   
-  -Fetches weather data from a reliable weather API (e.g., OpenWeatherMap).
+  Fetches weather data from a reliable weather API (e.g., OpenWeatherMap).
   
-  -Updates the UI dynamically based on the retrieved data.
+  Updates the UI dynamically based on the retrieved data.
 
   
 
 **How to Run:**
 
-  -After downloading , open index.html
+  After downloading , open index.html
