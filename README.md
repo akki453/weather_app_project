@@ -34,6 +34,7 @@ A simple and intuitive weather application built using HTML, CSS, and JavaScript
   -Updates the UI dynamically based on the retrieved data.
 
   
-**
-How to Run:**
+
+**How to Run:**
+
   -After downloading , open index.html
