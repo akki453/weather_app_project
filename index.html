@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
+</head>
+<body>
+    <div class="wrapper">
+        <h1>WEATHER APP</h1>
+
+        <div class="options">
+            <div class="yourWeather">Your Weather</div>
+            <div class="searchWeather">Search Weather</div>
+
+        </div>
+        <div class="dispGrantLocation">
+            <img src="location.png" alt="" width="100" height="100">
+            <h2>Grant Access Location</h2>
+            <h4>Allow Access to Get Weather Information</h4>
+            <button class="grantAccess">
+                Grant Access
+            </button>
+
+        </div>
+        <div class="dispYourWeather">
+                <div>
+                <span class="cityName"></span>
+                <img class="country"></img>
+            </div>
+
+            
+            <div class="weatherInfo"></div>
+                <img src="" alt="" class="weatherIcon">
+            <div class="temp"></div>
+            <div class="cardHolder">
+                <div class="card1">
+                    <img src="wind.png" alt="" height="140">
+                    <p>WINDSPEED</p>
+                    <p class="windSpeed"></p>
+                </div>
+                <div class="card2">
+                    <img src="humid.png" alt="" height="140">
+                    <p>HUMIDITY</p>
+                    <p class="humidity"></p>
+                </div>
+                <div class="card3">
+                    <img src="cloud.png" alt="" height="140">
+                    <p>CLOUDS</p>
+                    <p class="cloudiness"></p>
+                </div>
+            </div>
+
+
+            
+        </div>
+
+        <div class="dispSearchWeather">
+            <input type="text" placeholder="Search for City..." class="searchBox">
+            <button class="btn"><img src="search.png" alt="" height="33" width="33"></button>
+
+            
+
+
+        </div>
+        <div class="dispLoading">
+            <img src="loading.gif" alt="">
+            <p>Loading</p>
+        </div>
+
+
+
+
+    </div>
+    
+
+
+    <script src="index.js"></script>
+</body>
+</html>
